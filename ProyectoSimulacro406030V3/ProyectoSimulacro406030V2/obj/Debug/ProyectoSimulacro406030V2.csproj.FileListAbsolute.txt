@@ -1,0 +1,24 @@
+C:\Users\ester\Desktop\ABMS\Progra II\ProyectoSimulacro406030V2\ProyectoSimulacro406030V2\bin\Debug\ProyectoSimulacro406030V2.exe.config
+C:\Users\ester\Desktop\ABMS\Progra II\ProyectoSimulacro406030V2\ProyectoSimulacro406030V2\bin\Debug\ProyectoSimulacro406030V2.exe
+C:\Users\ester\Desktop\ABMS\Progra II\ProyectoSimulacro406030V2\ProyectoSimulacro406030V2\bin\Debug\ProyectoSimulacro406030V2.pdb
+C:\Users\ester\Desktop\ABMS\Progra II\ProyectoSimulacro406030V2\ProyectoSimulacro406030V2\obj\Debug\ProyectoSimulacro406030V2.csproj.AssemblyReference.cache
+C:\Users\ester\Desktop\ABMS\Progra II\ProyectoSimulacro406030V2\ProyectoSimulacro406030V2\obj\Debug\ProyectoSimulacro406030V2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ester\Desktop\ABMS\Progra II\ProyectoSimulacro406030V2\ProyectoSimulacro406030V2\obj\Debug\ProyectoSimulacro406030V2.FrmPrincipal.resources
+C:\Users\ester\Desktop\ABMS\Progra II\ProyectoSimulacro406030V2\ProyectoSimulacro406030V2\obj\Debug\ProyectoSimulacro406030V2.Properties.Resources.resources
+C:\Users\ester\Desktop\ABMS\Progra II\ProyectoSimulacro406030V2\ProyectoSimulacro406030V2\obj\Debug\ProyectoSimulacro406030V2.csproj.GenerateResource.cache
+C:\Users\ester\Desktop\ABMS\Progra II\ProyectoSimulacro406030V2\ProyectoSimulacro406030V2\obj\Debug\ProyectoSimulacro406030V2.csproj.CoreCompileInputs.cache
+C:\Users\ester\Desktop\ABMS\Progra II\ProyectoSimulacro406030V2\ProyectoSimulacro406030V2\obj\Debug\ProyectoSimulacro406030V2.exe
+C:\Users\ester\Desktop\ABMS\Progra II\ProyectoSimulacro406030V2\ProyectoSimulacro406030V2\obj\Debug\ProyectoSimulacro406030V2.pdb
+C:\Users\ester\Desktop\ABMS\Progra II\ProyectoSimulacro406030V2\ProyectoSimulacro406030V2\obj\Debug\ProyectoSimulacro406030V2.Presentacion.FrmRegistrarOrden.resources
+C:\Users\Santino\Desktop\ABMC\SimulacroParcial1\ProyectoSimulacro406030V2\ProyectoSimulacro406030V2\bin\Debug\ProyectoSimulacro406030V2.exe.config
+C:\Users\Santino\Desktop\ABMC\SimulacroParcial1\ProyectoSimulacro406030V2\ProyectoSimulacro406030V2\bin\Debug\ProyectoSimulacro406030V2.exe
+C:\Users\Santino\Desktop\ABMC\SimulacroParcial1\ProyectoSimulacro406030V2\ProyectoSimulacro406030V2\bin\Debug\ProyectoSimulacro406030V2.pdb
+C:\Users\Santino\Desktop\ABMC\SimulacroParcial1\ProyectoSimulacro406030V2\ProyectoSimulacro406030V2\obj\Debug\ProyectoSimulacro406030V2.csproj.AssemblyReference.cache
+C:\Users\Santino\Desktop\ABMC\SimulacroParcial1\ProyectoSimulacro406030V2\ProyectoSimulacro406030V2\obj\Debug\ProyectoSimulacro406030V2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Santino\Desktop\ABMC\SimulacroParcial1\ProyectoSimulacro406030V2\ProyectoSimulacro406030V2\obj\Debug\ProyectoSimulacro406030V2.FrmPrincipal.resources
+C:\Users\Santino\Desktop\ABMC\SimulacroParcial1\ProyectoSimulacro406030V2\ProyectoSimulacro406030V2\obj\Debug\ProyectoSimulacro406030V2.Presentacion.FrmRegistrarOrden.resources
+C:\Users\Santino\Desktop\ABMC\SimulacroParcial1\ProyectoSimulacro406030V2\ProyectoSimulacro406030V2\obj\Debug\ProyectoSimulacro406030V2.Properties.Resources.resources
+C:\Users\Santino\Desktop\ABMC\SimulacroParcial1\ProyectoSimulacro406030V2\ProyectoSimulacro406030V2\obj\Debug\ProyectoSimulacro406030V2.csproj.GenerateResource.cache
+C:\Users\Santino\Desktop\ABMC\SimulacroParcial1\ProyectoSimulacro406030V2\ProyectoSimulacro406030V2\obj\Debug\ProyectoSimulacro406030V2.csproj.CoreCompileInputs.cache
+C:\Users\Santino\Desktop\ABMC\SimulacroParcial1\ProyectoSimulacro406030V2\ProyectoSimulacro406030V2\obj\Debug\ProyectoSimulacro406030V2.exe
+C:\Users\Santino\Desktop\ABMC\SimulacroParcial1\ProyectoSimulacro406030V2\ProyectoSimulacro406030V2\obj\Debug\ProyectoSimulacro406030V2.pdb
